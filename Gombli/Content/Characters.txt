@@ -1,0 +1,74 @@
+A	Entry
+Z	Exit
+
+PollutantBasic	HoriRight B		VertDown b
+PollutantTough	HoriRight C		VertDown c
+
+GermsBasic	HoriRight G		VertDown g
+HIVTough	HoriRight H		VertDown h
+
+AnimalGrnd	D
+AnimalLazy	E
+AnimalFloat	F
+
+L	Ladder
+
+Moving Tile	HoriRight m		VertDown M
+
+|	Breakable Tile
+
+/\	Slope
+
+lurd x	Direction Changer
+
+!	Information Point
+
+Power Ups
+@	Recycle ball
+&	Bean Seed
+%	Bubble
+*	Marble
+
+Tiles
+.	Passable
+~	Water
+-	Platforms 
+#	Impassables
+
+0123456789	Puzzle pieces
+R	Reset
+
+Ozone Tiles		Off 0	On 1	Static S
+
+
+gems and collectables
+$	Bonus
++	Health
+^	Collectables
+
+
+
+
+
+
+EWSN = Arrow sign on the way (not imp)
+
+CheckPoints
+
+Death Tile
+
+? !	Breakable Tile
+
+
+~!@#$%^&*()_+ `1234567890-={}|[]:";'<>?,.
+
+
+Ozone Puzzle
+..O...............Z.
+22201001010011101222
+
+
+
+..O...x..B........Zx......................
+222010010100111012222222222222222222222222
+
