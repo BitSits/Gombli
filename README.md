@@ -48,6 +48,6 @@ This work by [BitSits Games] is licensed under a [Creative Commons Attribution-N
 [Creative Commons Sampling Plus 1.0 License]:http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]:http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[BitSits Games]:http://bitsits.blogspot.com/
+[BitSits Games]:http://bitsitsgames.com/
 [Shubhajit Saha]:http://suvozit.com
 [Maya Agarwal]:http://maya8802.tumblr.com
