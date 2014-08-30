@@ -1,7 +1,11 @@
 Gombli
 ======
 
-http://www.suvozit.com/2010/03/gombli.html
+Entry in [Imagine Cup](http://imaginecup.com/) 2010
+
+> [Theme](http://imaginecup.com/CompetitionsContent/MDG.aspx): “Imagine a world where technology helps solve the toughest problems”.
+
+A single Player Platformer Game, where our game character Gombli will repair the ozone layer in the form of puzzle. The powerUps of the Game are Recycle ball, Soap bubble, Bean Seed and Marble. The powerUps are designed as such to teach the player the importance of Cleanliness(Soap bubble destroy Germs), Recycling(recycle ball), Planting more trees(Bean seed destroy CO2), and a loads of fun(Marble). This game also teach the player that animals should not be hurt.
 
 Download
 ---
@@ -19,13 +23,15 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code & Graphics: [Shubhajit Saha] shubhajit.saha[AT]students.becs.ac.in & [Maya Agarwal] maya.agarwal2[AT]gmail.com
+- Game Design, Code & Graphics:
+  - [Shubhajit Saha] suvozit[at]bitsitsgames.com
+  - [Maya Agarwal] maya[at]bitsitsgames.com
 
 - Music: "Track traiin" and "hi ha ho" from [album 1 for kids](http://www.jamendo.com/en/album/41527) by chris.B under [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France].
 
 - Sound Effects: Sound effects are licensed under the [Creative Commons Sampling Plus 1.0 License].
 
-- Gombli Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
+- Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
 
 License
 --
@@ -46,4 +52,4 @@ This work by [BitSits Games] is licensed under a [Creative Commons Attribution-N
 
 [BitSits Games]:http://bitsits.blogspot.com/
 [Shubhajit Saha]:http://suvozit.com
-[Maya Agarwal]:http://bitsitsgames.blogspot.com
+[Maya Agarwal]:http://maya8802.tumblr.com
