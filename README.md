@@ -19,7 +19,7 @@ Controls: Run left, Run right [A, D or LEFT, RIGHT], Jump [W or UP]. Use Power [
 
 Troubleshooting
 ---
-If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1], [XNA Framework Redistributable 3.1] and [Windows Installer 3.1]
+If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1], [XNA Framework Redistributable 3.1] and [Windows Installer 3.1].
 
 Credits
 ---
@@ -29,7 +29,7 @@ Credits
 
 - Sound Effects: Sound effects are licensed under the [Creative Commons Sampling Plus 1.0 License].
 
-- Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
+- Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
 License
 --
