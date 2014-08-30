@@ -7,7 +7,7 @@ Entry in [Imagine Cup](http://imaginecup.com/) 2010
 
 A single Player Platformer Game, where our game character Gombli will repair the ozone layer in the form of puzzle. The powerUps of the Game are Recycle ball, Soap bubble, Bean Seed and Marble. The powerUps are designed as such to teach the player the importance of Cleanliness(Soap bubble destroy Germs), Recycling(recycle ball), Planting more trees(Bean seed destroy CO2), and a loads of fun(Marble). This game also teach the player that animals should not be hurt.
 
-Download
+Download Setup
 ---
 [Gombli Setup.zip (11.1 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Gombli%20Setup.zip)
 
@@ -23,7 +23,7 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code and Graphics: [Shubhajit Saha] and [Maya Agarwal]
+- Game Design, Code and Graphics: [Shubhajit Saha] and [Maya Agarwal].
 
 - Music: "Track traiin" and "hi ha ho" from [album 1 for kids](http://www.jamendo.com/en/album/41527) by chris.B under [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France].
 
