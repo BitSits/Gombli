@@ -1,7 +1,7 @@
 Gombli
 ======
 
-Gombli http://www.suvozit.com/2010/03/gombli.html
+http://www.suvozit.com/2010/03/gombli.html
 
 Download
 ---
@@ -19,7 +19,7 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code & Graphics: Shubhajit Saha ( shubhajit.saha @ students.becs.ac.in ) & Maya Agarwal ( maya.agarwal2 @ gmail.com )
+- Game Design, Code & Graphics: [Shubhajit Saha] ( shubhajit.saha @ students.becs.ac.in ) & Maya Agarwal ( maya.agarwal2 @ gmail.com )
 
 - Music: "Track traiin" and "hi ha ho" from [album 1 for kids](http://www.jamendo.com/en/album/41527) by chris.B under [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France].
 
@@ -27,7 +27,7 @@ Credits
 
 - Gombli Uses: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf]
 
-Creative Commons License
+License
 --
 This work by [BitSits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -45,3 +45,4 @@ This work by [BitSits Games] is licensed under a [Creative Commons Attribution-N
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]:http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 [BitSits Games]:http://bitsits.blogspot.com/
+[Shubhajit Saha]:http://suvozit.com
