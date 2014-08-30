@@ -24,8 +24,8 @@ If you have problems getting the game to run. You should install [.NET Framework
 Credits
 ---
 - Game Design, Code & Graphics:
-  - [Shubhajit Saha] suvozit[at]bitsitsgames.com
-  - [Maya Agarwal] maya[at]bitsitsgames.com
+  - [Shubhajit Saha] suvozit@bitsitsgames.com
+  - [Maya Agarwal] maya@bitsitsgames.com
 
 - Music: "Track traiin" and "hi ha ho" from [album 1 for kids](http://www.jamendo.com/en/album/41527) by chris.B under [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France].
 
