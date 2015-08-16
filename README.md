@@ -9,7 +9,7 @@ A single Player Platformer Game, where our game character Gombli will repair the
 
 Download Setup
 ---
-[Gombli Setup.zip (11.1 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Gombli%20Setup.zip)
+[Gombli Setup.zip (11.1 MB)](https://github.com/BitSits/Gombli-Assets/raw/master/Gombli%20(Setup).zip)
 
 
 Instructions
