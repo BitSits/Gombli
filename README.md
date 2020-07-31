@@ -5,7 +5,7 @@ for [Imagine Cup] 2010 [Game Design] Entry
 
 ![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/01%252520Gombli.png)
 
-[Blog](https://www.bitsits.games/2010/03/gombli-first-view.html)
+[Blogger](https://bitsits.blogspot.com/2010/03/gombli-first-view.html)
 
 Gombli
 ======
@@ -53,7 +53,7 @@ License
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
-[Blog](https://www.bitsits.games/2010/03/gombli.html)
+[Blogger](https://bitsits.blogspot.com/2010/03/gombli.html) [Tumblr](https://bitsits.tumblr.com/post/96168939210/gombli-entry-in-imagine-cup-2010-theme)
 
 
 Gombli: Demo
@@ -65,7 +65,7 @@ The first level of Gombli, exhibiting all the power-ups.
 
 <p><a href="https://giphy.com/gifs/bad-tv-gombli-demo-JQe84L2uoYTAPXrJjl">via GIPHY</a></p>
 
-[Blog](https://www.bitsits.games/2011/08/gombli-demo.html)
+[Blogger](https://bitsits.blogspot.com/2011/08/gombli-demo.html)
 
 
 [Imagine Cup]: http://imaginecup.com/
@@ -84,6 +84,6 @@ The first level of Gombli, exhibiting all the power-ups.
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[Bitsits Games]: https://www.bitsits.games
-[Shubhajit Saha]: https://www.shubhajitsaha.com
+[Bitsits Games]: https://bitsits.blogspot.com
+[Shubhajit Saha]: https://suvozit.blogspot.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
