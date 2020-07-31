@@ -53,7 +53,8 @@ License
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
-[Blogger](https://bitsits.blogspot.com/2010/03/gombli.html) [Tumblr](https://bitsits.tumblr.com/post/96168939210/gombli-entry-in-imagine-cup-2010-theme)
+[Blogger](https://bitsits.blogspot.com/2010/03/gombli.html)
+[Tumblr](https://bitsits.tumblr.com/post/96168939210/gombli-entry-in-imagine-cup-2010-theme)
 
 
 Gombli: Demo
@@ -66,6 +67,7 @@ The first level of Gombli, exhibiting all the power-ups.
 <p><a href="https://giphy.com/gifs/bad-tv-gombli-demo-JQe84L2uoYTAPXrJjl">via GIPHY</a></p>
 
 [Blogger](https://bitsits.blogspot.com/2011/08/gombli-demo.html)
+[YouTube][video]
 
 
 [Imagine Cup]: http://imaginecup.com/
