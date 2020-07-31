@@ -24,7 +24,7 @@ Screenshots
 
 Download Setup
 ---
-[Gombli Setup.zip (11.1 MB)](https://github.com/Bitsits/Gombli-Assets/raw/master/Gombli%20(Setup).zip)
+[Gombli Setup.zip][zip] (11.1 MB)
 
 
 Instructions
@@ -70,10 +70,6 @@ The first level of Gombli, exhibiting all the power-ups.
 [YouTube][video]
 
 
-[Imagine Cup]: http://imaginecup.com/
-[Game Design]: http://imaginecup.com/Competition/mycompetitionportal.aspx?competitionId=38
-[video]: https://www.youtube.com/watch?v=3JaXCBq9Ecw
-
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
 [Windows Installer 3.1]: http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=889482fc-5f56-4a38-b838-de776fd4138c
@@ -82,10 +78,13 @@ The first level of Gombli, exhibiting all the power-ups.
 [XNA Stater Kit: Platformer]: http://msdn.microsoft.com/en-us/library/dd254918.aspx
 [Microsoft Permissive License.rtf]: http://creators.xna.com/downloads/?id=15
 
-[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France]: http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
-[Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[Bitsits Games]: https://bitsits.blogspot.com
-[Shubhajit Saha]: https://suvozit.blogspot.com
-[Maya Agarwal]: https://mayaagarwal.blogspot.com
+[Bitsits Games]:https://bitsits.blogspot.com
+[Shubhajit Saha]:https://suvozit.blogspot.com
+[Maya Agarwal]:https://mayaagarwal.blogspot.com
+
+[Imagine Cup]: http://imaginecup.com/
+[Game Design]: http://imaginecup.com/Competition/mycompetitionportal.aspx?competitionId=38
+[zip]: https://github.com/Bitsits/Gombli-Assets/raw/master/Gombli%20(Setup).zip
+[video]: https://www.youtube.com/watch?v=3JaXCBq9Ecw
