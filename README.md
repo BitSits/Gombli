@@ -63,6 +63,8 @@ The first level of Gombli, exhibiting all the power-ups.
 <!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
 [![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Bad%20Tv%20GIF-downsized_large.gif)][video]
 
+<p><a href="https://giphy.com/gifs/bad-tv-gombli-demo-JQe84L2uoYTAPXrJjl">via GIPHY</a></p>
+
 [Blog](https://www.bitsits.games/2011/08/gombli-demo.html)
 
 
