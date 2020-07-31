@@ -3,7 +3,7 @@ Gombli first view
 Our game character Gombli :) 
 for [Imagine Cup] 2010 [Game Design] Entry
 
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/01%252520Gombli.png)
+![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli.png)
 
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli-first-view.html)
 
@@ -62,7 +62,7 @@ Gombli: Demo
 The first level of Gombli, exhibiting all the power-ups.
 
 <!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
-[![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Bad%20Tv%20GIF-downsized_large.gif)][video]
+[![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
 
 <p><a href="https://giphy.com/gifs/bad-tv-gombli-demo-JQe84L2uoYTAPXrJjl">via GIPHY</a></p>
 
