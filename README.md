@@ -80,11 +80,11 @@ The first level of Gombli, exhibiting all the power-ups.
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[Bitsits Games]:https://bitsits.blogspot.com
-[Shubhajit Saha]:https://suvozit.blogspot.com
-[Maya Agarwal]:https://mayaagarwal.blogspot.com
+[Bitsits Games]: https://bitsits.blogspot.com
+[Shubhajit Saha]: https://suvozit.blogspot.com
+[Maya Agarwal]: https://mayaagarwal.blogspot.com
 
 [Imagine Cup]: http://imaginecup.com/
 [Game Design]: http://imaginecup.com/Competition/mycompetitionportal.aspx?competitionId=38
 [zip]: https://github.com/Bitsits/Gombli-Assets/raw/master/Gombli%20(Setup).zip
-[video]: https://www.youtube.com/watch?v=3JaXCBq9Ecw
+[video]: https://youtu.be/3JaXCBq9Ecw
