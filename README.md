@@ -24,7 +24,7 @@ Screenshots
 
 Download Setup
 ---
-[Gombli Setup.zip (11.1 MB)](https://github.com/BitSits/Gombli-Assets/raw/master/Gombli%20(Setup).zip)
+[Gombli Setup.zip (11.1 MB)](https://github.com/Bitsits/Gombli-Assets/raw/master/Gombli%20(Setup).zip)
 
 
 Instructions
@@ -51,7 +51,7 @@ License
 
 ![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/cc.png)
 
-This work by [BitSits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
+This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 [Blog](https://www.bitsits.games/2010/03/gombli.html)
 
@@ -84,6 +84,6 @@ The first level of Gombli, exhibiting all the power-ups.
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-[BitSits Games]: https://www.bitsits.games
+[Bitsits Games]: https://www.bitsits.games
 [Shubhajit Saha]: https://www.shubhajitsaha.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
