@@ -3,14 +3,13 @@ Gombli first view
 Our game character Gombli :) 
 for [Imagine Cup] 2010 [Game Design] Entry
 
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli.png)
+![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/Gombli.png)
 
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli-first-view.html)
 [Tumblr](https://bitsits.tumblr.com/post/96168532100/gombli-first-view-our-game-character-gombli)
 
 Gombli
 ======
-
 Entry in [Imagine Cup] 2010
 
 > [Theme](http://imaginecup.com/CompetitionsContent/MDG.aspx): “Imagine a world where technology helps solve the toughest problems”.
@@ -19,9 +18,9 @@ A single Player Platformer Game, where our game character Gombli will repair the
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli1.png)
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli2.png)
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli3.png)
+![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/Gombli1.png)
+![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/Gombli2.png)
+![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/Gombli3.png)
 
 Download Setup
 ---
@@ -49,8 +48,7 @@ Credits
 
 License
 --
-
-![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -63,7 +61,7 @@ Gombli: Demo
 The first level of Gombli, exhibiting all the power-ups.
 
 <!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
-[![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
+[![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
 
 [YouTube][video] [via GIPHY](https://giphy.com/gifs/JQe84L2uoYTAPXrJjl)
 
