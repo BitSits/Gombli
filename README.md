@@ -30,7 +30,7 @@ Download Setup
 
 Instructions
 ---
-Controls: Run left, Run right [A, D or LEFT, RIGHT], Jump [W or UP]. Use Power [SPACE or ENTER]. Press [TAB] to switch powers.
+Controls: Run left, Run right <kbd>A</kbd>, <kbd>D</kbd> or <kbd>LEFT</kbd>, <kbd>RIGHT</kbd>, Jump <kbd>W</kbd> or <kbd>UP</kbd>. Use Power <kbd>SPACE</kbd> or <kbd>ENTER</kbd>. Press <kbd>TAB</kbd> to switch powers.
 
 
 Troubleshooting
