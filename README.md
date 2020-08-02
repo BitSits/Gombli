@@ -6,6 +6,7 @@ for [Imagine Cup] 2010 [Game Design] Entry
 ![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/Gombli.png)
 
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli-first-view.html)
+[Tumblr](https://bitsits.tumblr.com/post/96168532100/gombli-first-view-our-game-character-gombli)
 
 Gombli
 ======
@@ -64,10 +65,10 @@ The first level of Gombli, exhibiting all the power-ups.
 <!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
 [![](https://raw.githubusercontent.com/Bitsits/Gombli-Assets/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
 
-<p><a href="https://giphy.com/gifs/bad-tv-gombli-demo-JQe84L2uoYTAPXrJjl">via GIPHY</a></p>
+[YouTube][video] [via GIPHY](https://giphy.com/gifs/JQe84L2uoYTAPXrJjl)
 
 [Blogger](https://bitsits.blogspot.com/2011/08/gombli-demo.html)
-[YouTube][video]
+[Tumblr](https://bitsits.tumblr.com/post/96171436355/gombli-demo-the-first-level-of-gombli)
 
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
