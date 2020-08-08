@@ -48,8 +48,7 @@ Credits
 
 License
 --
-[![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]
-
+[![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]  
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli.html)
