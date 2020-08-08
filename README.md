@@ -8,6 +8,18 @@ for [Imagine Cup] 2010 [Game Design] Entry
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli-first-view.html)
 [Tumblr](https://bitsits.tumblr.com/post/96168532100/gombli-first-view-our-game-character-gombli)
 
+Gombli: Demo
+===
+The first level of Gombli, exhibiting all the power-ups.
+
+<!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
+[![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
+
+[YouTube][video] [via GIPHY](https://giphy.com/gifs/JQe84L2uoYTAPXrJjl)
+
+[Blogger](https://bitsits.blogspot.com/2011/08/gombli-demo.html)
+[Tumblr](https://bitsits.tumblr.com/post/96171436355/gombli-demo-the-first-level-of-gombli)
+
 Gombli
 ======
 Entry in [Imagine Cup] 2010
@@ -26,11 +38,9 @@ Download Setup
 ---
 [Gombli Setup.zip][zip] (11.1 MB)
 
-
 Instructions
 ---
 Controls: Run left, Run right <kbd>A</kbd>, <kbd>D</kbd> or <kbd>LEFT</kbd>, <kbd>RIGHT</kbd>, Jump <kbd>W</kbd> or <kbd>UP</kbd>. Use Power <kbd>SPACE</kbd> or <kbd>ENTER</kbd>. Press <kbd>TAB</kbd> to switch powers.
-
 
 Troubleshooting
 ---
@@ -53,20 +63,6 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [Blogger](https://bitsits.blogspot.com/2010/03/gombli.html)
 [Tumblr](https://bitsits.tumblr.com/post/96168939210/gombli-entry-in-imagine-cup-2010-theme)
-
-
-Gombli: Demo
-===
-The first level of Gombli, exhibiting all the power-ups.
-
-<!-- [![](http://i3.ytimg.com/vi/3JaXCBq9Ecw/hqdefault.jpg)][video] -->
-[![](https://github.com/Bitsits/Gombli-Assets/raw/master/Blog/JQe84L2uoYTAPXrJjl.gif)][video]
-
-[YouTube][video] [via GIPHY](https://giphy.com/gifs/JQe84L2uoYTAPXrJjl)
-
-[Blogger](https://bitsits.blogspot.com/2011/08/gombli-demo.html)
-[Tumblr](https://bitsits.tumblr.com/post/96171436355/gombli-demo-the-first-level-of-gombli)
-
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
